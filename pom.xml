@@ -114,7 +114,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>myapp</finalName>
+		<finalName>springbaseapp</finalName>
 	</build>
 
 	<dependencies>
