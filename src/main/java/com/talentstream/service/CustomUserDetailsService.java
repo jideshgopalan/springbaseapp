@@ -1,4 +1,4 @@
-package com.jidesh.service;
+package com.talentstream.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
@@ -7,7 +7,7 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.jidesh.repository.user.UserRepository;
+import com.talentstream.repository.user.UserRepository;
 
 /**
  * A custom {@link UserDetailsService} where user information

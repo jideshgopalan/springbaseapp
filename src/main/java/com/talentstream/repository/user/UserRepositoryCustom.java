@@ -1,8 +1,8 @@
-package com.jidesh.repository.user;
+package com.talentstream.repository.user;
 
 import java.util.List;
 
-import com.jidesh.domain.User;
+import com.talentstream.domain.User;
 
 
 

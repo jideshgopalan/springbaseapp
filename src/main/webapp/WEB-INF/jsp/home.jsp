@@ -11,7 +11,7 @@
 	
 
     <!-- Le styles -->
-    <link href="<%=bootstrap_assets_path%>/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="<%=bootstrap_assets_path%>/css/spacelab/bootstrap.min.css" rel="stylesheet" />
     <style type="text/css">
       body {
         padding-top: 60px;

@@ -1,4 +1,4 @@
-package com.jidesh.repository.user;
+package com.talentstream.repository.user;
 
 import java.util.List;
 
@@ -6,7 +6,7 @@ import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.persistence.criteria.CriteriaQuery;
 
-import com.jidesh.domain.User;
+import com.talentstream.domain.User;
 
 
 

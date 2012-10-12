@@ -1,4 +1,4 @@
-package com.jidesh.repository.user;
+package com.talentstream.repository.user;
 
 import java.util.List;
 
@@ -7,7 +7,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 
-import com.jidesh.domain.User;
+import com.talentstream.domain.User;
 
 
 /**

@@ -1,4 +1,4 @@
-package com.jidesh.aop;
+package com.talentstream.aop;
 
 import org.aopalliance.intercept.MethodInvocation;
 import org.apache.commons.logging.Log;

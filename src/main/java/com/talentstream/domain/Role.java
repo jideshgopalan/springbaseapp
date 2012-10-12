@@ -1,4 +1,4 @@
-package com.jidesh.domain;
+package com.talentstream.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.JoinColumn;

@@ -1,4 +1,4 @@
-package com.jidesh.domain;
+package com.talentstream.domain;
 
 import java.util.ArrayList;
 import java.util.Collection;
