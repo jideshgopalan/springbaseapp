@@ -22,7 +22,7 @@
       }
     </style>
     <link href="<%=bootstrap_assets_path%>/css/bootstrap-responsive.css" rel="stylesheet" />
-    <link href="<%=ember_assets_path%>/css/application.css" rel="stylesheet" />
+    
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -202,7 +202,8 @@
     <!-- Placed at the end of the document so the pages load faster -->
 	<script src="<%=ember_assets_path%>/js/libs/jquery-1.7.1.js"></script>
 	<script src="<%=ember_assets_path%>/js/libs/jquery.lorem.js"></script>
-	<script src="<%=ember_assets_path%>/js/libs/handlebars-1.0.0.beta.6.js"></script>
+	<script src="<%=ember_assets_path%>/js/libs/handlebars-1.0.rc.1.js"></script>
+	
 	<script src="<%=ember_assets_path%>/js/libs/ember.js"></script>
 	<script src="<%=ember_assets_path%>/js/app.js"></script>
 	<script src="<%=bootstrap_assets_path%>/js/bootstrap.min.js"></script>
